@@ -11,6 +11,7 @@
     <div>
     <h2>Welcome to MITO</h2>
         <p> <%:DateTime.Now.ToString() %></p>
+        <h1> Shop Away</h1>
     </div>
     </form>
 </body>
